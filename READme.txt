@@ -4,4 +4,3 @@ go to python
 2-->  db.create_all()
 3--> exit()
 
-hiiiiiiii
